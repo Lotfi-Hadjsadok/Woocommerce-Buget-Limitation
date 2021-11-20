@@ -1,5 +1,8 @@
 # Woocommerce Buget Limitation
 ![woocommerce_logo](https://www.styleworks.com.uy/wp-content/uploads/2017/08/woocommerce-logo.png)
+# Author
+- **Name:** Lotfi Hadjsadok <br />
+- **Email:** [lotfihadjsadok@gmail.com](mailto:lotfihadjsadok@gmail.com)
 # How to setup
 1. Create a new user
 2. Edit his budget on the budget meta box
