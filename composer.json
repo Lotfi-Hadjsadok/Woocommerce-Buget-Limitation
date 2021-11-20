@@ -1,0 +1,17 @@
+{
+    "name": "lotfi/raysel",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lotfi-Hadjsadok",
+            "email": "83740857+Lotfi-Hadjsadok@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.3"
+    }
+}
